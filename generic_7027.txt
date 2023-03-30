@@ -1,0 +1,21 @@
+.open business1
+
+
+CREATE TABLE finan
+(
+cb VARCHAR(12),
+yi VARCHAR(12),
+yo VARCHAR(12),
+ncb VARCHAR(12)
+);
+
+CREATE TABLE trans
+(
+mt VARCHAR(12),
+ot VARCHAR(12),
+tt VARCHAR(12),
+ft VARCHAR(12),
+ca VARCHAR(12),
+oa VARCHAR(12)
+);
+
